@@ -1,0 +1,21 @@
+{
+  "name": "node-basic-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Andrey Dmitriew",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint-plugin-html": "^5.0.3",
+    "nodemon": "^1.18.10",
+    "standard": "^12.0.1"
+  }
+}
